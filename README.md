@@ -1,6 +1,7 @@
 
 <img width="1200" height="400" alt="portada-github" src="https://github.com/user-attachments/assets/7d100170-6601-46ec-9d4b-419f6053daa5" />
-# ¡Hola! Soy Emerson Lezama 👋
+
+#¡Hola! Soy Emerson Lezama 👋
 
 Soy un estudiante de Ingeniería de Sistemas e IA (8vo ciclo) apasionado por el desarrollo Full Stack, la arquitectura de soluciones y el desarrollo móvil. Me especializo en construir aplicaciones robustas integrando las mejores prácticas, tanto en plataformas web como en apps nativas, y exprimiendo al máximo el potencial de herramientas de IA (como Claude y Antigravity CLI) para optimizar la escritura y arquitectura del código.
 
@@ -26,17 +27,13 @@ Mi meta profesional es convertirme en Arquitecto de Soluciones en el ecosistema 
 ![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-Claude_%7C_Antigravity-8A2BE2?style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
-
 ### 📊 Estadísticas de GitHub
 
-### 📊 Estadísticas de GitHub
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Emerson-Lezama-Vera&theme=highcontrast&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emerson-Lezama-Vera&theme=highcontrast&hide_border=true)
-
-![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emerson-Lezama-Vera&show_icons=true&theme=highcontrast&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Lezama-Vera&layout=compact&theme=highcontrast&hide_border=true)
-
+![Emerson's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Emerson-Lezama-Vera&show_icons=true&theme=highcontrast&hide_border=true) ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emerson-Lezama-Vera&layout=compact&theme=highcontrast&hide_border=true)
 ---
-
+ 
 ### 📫 Cómo contactarme
 
 - 💼 **LinkedIn:** [Emerson Lezama Vera](https://www.linkedin.com/in/emerson-lezama-vera-010343390/)
