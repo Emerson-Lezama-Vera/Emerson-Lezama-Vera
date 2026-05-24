@@ -1,11 +1,10 @@
-
 <img width="1200" height="400" alt="portada-github" src="https://github.com/user-attachments/assets/7d100170-6601-46ec-9d4b-419f6053daa5" />
 
-#¡Hola! Soy Emerson Lezama 👋
+<h1>¡Hola! Soy Emerson Lezama 👋</h1>
 
-Soy un estudiante de Ingeniería de Sistemas e IA (8vo ciclo) apasionado por el desarrollo Full Stack, la arquitectura de soluciones y el desarrollo móvil. Me especializo en construir aplicaciones robustas integrando las mejores prácticas, tanto en plataformas web como en apps nativas, y exprimiendo al máximo el potencial de herramientas de IA (como Claude y Antigravity CLI) para optimizar la escritura y arquitectura del código.
+Soy un estudiante de Ingeniería de Sistemas e IA (8vo ciclo) apasionado por el desarrollo Full Stack, la arquitectura de soluciones, el desarrollo móvil y el procesamiento de Big Data & Machine Learning. Me especializo en construir aplicaciones robustas integrando las mejores prácticas, desde plataformas web y apps nativas hasta el análisis y simulación de datos con modelos predictivos. 
 
-Mi meta profesional es convertirme en Arquitecto de Soluciones en el ecosistema AWS, creando sistemas escalables y altamente disponibles.
+Aprovecho al máximo el potencial de herramientas de IA (como Claude y Antigravity CLI) para optimizar la escritura y arquitectura del código. Mi meta profesional es convertirme en Arquitecto de Soluciones en el ecosistema AWS, creando sistemas escalables, inteligentes y altamente disponibles.
 
 ---
 
@@ -20,6 +19,9 @@ Mi meta profesional es convertirme en Arquitecto de Soluciones en el ecosistema 
 **Desarrollo Móvil**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+**Big Data & Machine Learning**
+![Apache Spark](https://img.shields.io/badge/apache_spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
 **Bases de Datos**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -27,11 +29,16 @@ Mi meta profesional es convertirme en Arquitecto de Soluciones en el ecosistema 
 ![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-Claude_%7C_Antigravity-8A2BE2?style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
+
 ### 📊 Estadísticas de GitHub
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Emerson-Lezama-Vera&theme=highcontrast&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Emerson-Lezama-Vera&show_icons=true&theme=highcontrast&hide_border=true" width="590" alt="Emerson's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emerson-Lezama-Vera&theme=highcontrast&hide_border=true&langs_count=5" width="300" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emerson-Lezama-Vera&theme=highcontrast&hide_border=true" width="590" alt="GitHub Streak" />
+</div>
 
-![Emerson's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Emerson-Lezama-Vera&show_icons=true&theme=highcontrast&hide_border=true) ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emerson-Lezama-Vera&layout=compact&theme=highcontrast&hide_border=true)
 ---
  
 ### 📫 Cómo contactarme
